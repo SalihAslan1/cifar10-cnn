@@ -1,0 +1,11 @@
+.venv/
+.ruff_cache/
+__pycache__/
+*.py[cod]
+data/
+telefon_fotograflari/
+results/phone/
+results/last.pt
+results/*.tmp
+results/*.log
+/CIFAR-10 Proje Raporu.pdf
